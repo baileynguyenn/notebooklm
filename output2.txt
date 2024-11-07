@@ -1,0 +1,76 @@
+Summary of "Blockchain technology in supply chain operations: Applications, challenges and research opportunities"
+This article reviews 178 research articles exploring the applications, challenges, and research opportunities of blockchain technology in supply chain management.
+What is Blockchain?
+Blockchain is a decentralised and distributed ledger technology (DLT). It provides a secure and transparent way to record and track transactions, making it ideal for managing complex supply chains.
+Key Features of Blockchain
+●
+Decentralised structure: Data is distributed across a network of computers rather than a central authority.
+●
+Distributed nodes and storage mechanism: All participants in the network have a copy of the ledger, ensuring data redundancy and security.
+●
+Consensus algorithm: Transactions are validated and added to the blockchain through a consensus mechanism, ensuring data integrity and trust.
+●
+Smart contracting: Self-executing contracts can be programmed onto the blockchain, automating processes and reducing the need for intermediaries.
+●
+Asymmetric encryption: Ensures network security by using cryptographic keys to protect data and transactions.
+Benefits of Blockchain in Supply Chain Operations
+Blockchain technology offers numerous potential benefits for supply chain operations, including:
+●
+Enhanced Transparency and Traceability: Blockchain enables real-time tracking of goods and transactions throughout the supply chain, improving visibility and accountability.
+●
+Improved Security and Trust: The decentralised and immutable nature of blockchain enhances data security and reduces the risk of fraud and counterfeiting.
+●
+Increased Efficiency and Reduced Costs: Automating processes through smart contracts and streamlining transactions can lead to increased efficiency and cost savings.
+●
+Enhanced Data Management: Blockchain provides a secure and reliable platform for managing and sharing data among supply chain partners.
+●
+Strengthened Supply Chain Resilience: Blockchain can help mitigate risks associated with disruptions and improve the resilience of supply chains.
+Applications of Blockchain in Various Sectors
+The sources explore the applications of blockchain across different sectors:
+Improving Core Supply Chain Functions:
+●
+Supply Chain Provenance: Tracking product origins, authenticity, and movement.
+●
+Supply Chain Resilience: Minimising disruption impacts and improving risk management.
+●
+Supply Chain Re-engineering: Enhancing visibility, process automation, and eliminating intermediaries.
+●
+Product Management: Improving product deletion processes and price management.
+Impacting Diverse Sectors:
+●
+Finance: Enhanced asset management, trade finance, and efficient VAT services.
+●
+Healthcare: Secure data sharing, drug counterfeiting prevention, and improved vaccine traceability.
+●
+Automotive: Creating a secure, integrated framework for managing the automotive lifecycle.
+●
+E-commerce: Secure payment systems, improved risk management, and efficient e-procurement.
+●
+Sustainability and Circular Economy: Tracing materials in recycling, reducing waste, and promoting sustainable practices.
+Challenges in Implementing Blockchain
+●
+Organisational Requirements and Readiness: Lack of understanding and expertise, limited successful implementation examples.
+●
+Data Collection and Management: Ensuring data integrity and managing large datasets.
+●
+Scalability: Currently, blockchain technology may not be scalable enough to handle large transaction volumes.
+●
+Interoperability: Challenges in integrating different blockchain systems and ensuring seamless data exchange.
+●
+Privacy and Security: Concerns about data privacy and security in a decentralised network.
+●
+Legal and Regulatory Uncertainty: Lack of clear regulations surrounding cryptocurrency and data management.
+Future Research Opportunities
+The sources identify various research opportunities related to blockchain in supply chains:
+●
+Empirical studies to analyse the impact of blockchain on supply chain performance.
+●
+Development of standardised frameworks for blockchain implementation and regulation.
+●
+Addressing privacy and security concerns in blockchain-enabled supply chains.
+●
+Investigating the impact of blockchain on supply chain coordination and relationships between stakeholders.
+●
+Exploring the role of blockchain in enhancing supply chain sustainability and promoting circular economy practices.
+Conclusion
+Blockchain technology holds immense potential to revolutionise supply chain management across various industries. While challenges exist, ongoing research and development efforts are paving the way for wider adoption and integration of blockchain solutions, ultimately leading to more efficient, transparent, and secure supply chains.

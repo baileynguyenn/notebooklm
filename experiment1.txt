@@ -1,0 +1,8 @@
+
+## Content-Driven Question Answering
+
+- **Document Used**: Revolutionizing healthcare: the role of artificial intelligence in clinical practice
+
+- **Query**: What are the main challenges of implementing AI in healthcare?
+
+- **Response**: Data Quality and Availability, Data Privacy and Security, Bias and Fairness, Lack of Personalisation and Empathy, Need for Human Expertise and Oversight, Public Perception and Trust,  Ethical Considerations, Legal and Regulatory Challenges

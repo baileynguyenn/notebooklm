@@ -1,0 +1,9 @@
+
+## Summarization_of_Texts
+
+- **Document Used**: Blockchain technology in supply chain operations: Applications,
+challenges and research opportunities
+
+- **Query**: Give me a summary of the article
+
+- **Response**: Comprehensive summary of the article

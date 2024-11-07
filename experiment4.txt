@@ -1,0 +1,7 @@
+## Generation of Study Guides
+
+- **Document Used**: New Challenges for Macroeconomic Policies Economic Growth, Sustainable Development, Fiscal and Monetary Policies
+
+- **Query**: Create a study guide for me for the book "New challenges for macroeconomic policies : economic growth, sustainable development, fiscal and monetary policies"
+
+- **Response**: Study guide and summary
